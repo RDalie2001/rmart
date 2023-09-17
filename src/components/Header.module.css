@@ -1,0 +1,20 @@
+.header {
+    background-color: black;
+    padding: 40px;
+    position: relative;
+}
+
+.nav-items{
+    position: absolute;
+    left: 60%;
+    top: 10%;
+    display: flex;
+    color: white;
+    margin: 10px;
+    font-size: x-large;
+}
+
+.nav-button {
+    all: unset;
+    margin: 5px 30px;
+}
